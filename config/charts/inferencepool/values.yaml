@@ -12,6 +12,7 @@ inferenceExtension:
   extraContainerPorts: []
   # Define additional service ports
   extraServicePorts: []
+  insecureServing: true
 
   # This is the plugins configuration file.
   # pluginsCustomConfig:
